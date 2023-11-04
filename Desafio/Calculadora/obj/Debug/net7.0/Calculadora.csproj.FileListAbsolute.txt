@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Desafio\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\Users\PC\Desktop\Desafio\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\Users\PC\Desktop\Desafio\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Users\PC\Desktop\Desafio\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\Users\PC\Desktop\Desafio\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\Users\PC\Desktop\Desafio\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Desafio\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Desafio\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Users\PC\Desktop\Desafio\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Desafio\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\Users\PC\Desktop\Desafio\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Users\PC\Desktop\Desafio\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\Users\PC\Desktop\Desafio\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Users\PC\Desktop\Desafio\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
